@@ -9,7 +9,7 @@
 I'm a passionate full-stack developer with hands-on experience building responsive, multilingual websites and ecommerce platforms. I specialize in creating clean user interfaces, optimizing website performance, and transforming business ideas into real-world digital products.
 
 **Currently:** Building web experiences that solve real business problems  
-**Location:** Alexandria, Egypt 🇪🇬  
+**Location:** Assiut, Egypt 🇪🇬  
 **Email:** froeidsamer@gmail.com
 
 ---
